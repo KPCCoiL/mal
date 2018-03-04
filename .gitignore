@@ -139,3 +139,6 @@ elm/elm-stuff
 elm/*.js
 !elm/node_readline.js
 !elm/bootstrap.js
+idris/*.ibc
+idris/step*
+!idris/*.idr
